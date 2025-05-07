@@ -1,12 +1,12 @@
 [Setup]
 AppName=PIPO
-AppVersion=1.0
+AppVersion=2.0.0
 DefaultDirName={autopf}\PIPO
 DefaultGroupName=PIPO
 OutputBaseFilename=PIPO_Instalador
 Compression=lzma
 SolidCompression=yes
-SetupIconFile=C:\Users\leas_\OneDrive\Desktop\pipo\pipoicono.ico
+SetupIconFile=C:\Users\leas_\OneDrive\Desktop\pipo\logo.ico
 WizardStyle=modern
 AppPublisher=Leandro Pescara
 AppPublisherURL=https://github.com/LeandroPescara
